@@ -1,5 +1,5 @@
 ### Olá 👋
-### Sou o Gabriel e logro estudar Engenharia da Computação na UFRGS!
+### Sou o Gabriel e aspiro estudar Engenharia da Computação na UFRGS!
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
