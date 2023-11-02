@@ -2,7 +2,9 @@
 ### Sou o Gabriel e estudo Engenharia na UFRGS!
 
 <div style="display: inline_block"><br>
-  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="C" height="35" width="35" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/c_original_logo_icon_146611.png">
+  <img align="center" alt="Java" height="35" width="35" src="https://cdn-icons-png.flaticon.com/512/5968/5968282.png">
 
   
   ##
